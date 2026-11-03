@@ -10,6 +10,14 @@
 
 Built for the Appwrite Databases Hackathon 2026. Two Appwrite database types, two jobs, one honest answer.
 
+<img width="1718" height="1230" alt="Screenshot at Nov 03 13-24-54" src="https://github.com/user-attachments/assets/f3c5f497-df6f-4215-a7aa-3abffadaa21f" />
+<img width="1729" height="1048" alt="Screenshot at Nov 03 13-25-06" src="https://github.com/user-attachments/assets/7cb8e44c-f339-4164-8353-49d584ebdbf9" />
+
+
+https://github.com/user-attachments/assets/f1c81097-4da4-4cd5-a0a9-22b179dd41a0
+
+
+
 ---
 
 ## Why two databases
