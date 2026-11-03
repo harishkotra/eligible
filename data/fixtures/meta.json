@@ -1,0 +1,17 @@
+{
+  "builtAt": "2026-11-03T05:22:04.832Z",
+  "source": "myscheme.gov.in public scheme pages, CSV scrape (Aryan-Pardeshi/gov-myscheme-dataset)",
+  "sourceRows": 2066,
+  "schemes": 2066,
+  "skipped": 0,
+  "central": 527,
+  "stateLevel": 1539,
+  "jurisdictions": 36,
+  "withIncomeRule": 292,
+  "withAgeRule": 476,
+  "withMoney": 1578,
+  "docsTotal": 12370,
+  "incomeCeilingSentinel": 999999999,
+  "embedChars": 1511557,
+  "approxEmbedTokens": 377889
+}

@@ -1,0 +1,75 @@
+# dependencies
+node_modules/
+.pnp/
+.pnp.js
+.yarn/
+.pnpm-store/
+
+# build output
+dist/
+build/
+out/
+api/
+*.tsbuildinfo
+.vite/
+.nitro/
+.turbo/
+.parcel-cache/
+.cache/
+
+# secrets: keep the template, ignore every real env file
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+service-account*.json
+
+# local scratch work: logs, screenshots, probe output
+scratch/
+artifacts/
+*.log
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+coverage/
+.nyc_output/
+.history/
+
+# test runners
+test-results/
+playwright-report/
+.playwright/
+blob-report/
+
+# editors and OS
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo
+*.orig
+*.rej
+
+# archives and temp
+*.zip
+*.tar.gz
+*.tgz
+*.mp4
+*.webm
+tmp/
+temp/
+
+# deployment
+.vercel/
+.netlify/
+.wrangler/
+
+# data/fixtures/ is committed on purpose so a fresh clone runs before
+# ingest. data/source/schemes.csv is the source of truth.
+
+social/

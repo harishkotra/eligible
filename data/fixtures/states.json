@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Puducherry",
+    "own": 186,
+    "reachable": 713
+  },
+  {
+    "name": "Gujarat",
+    "own": 118,
+    "reachable": 645
+  },
+  {
+    "name": "Goa",
+    "own": 116,
+    "reachable": 643
+  },
+  {
+    "name": "Tamil Nadu",
+    "own": 108,
+    "reachable": 635
+  },
+  {
+    "name": "Rajasthan",
+    "own": 83,
+    "reachable": 610
+  },
+  {
+    "name": "Kerala",
+    "own": 72,
+    "reachable": 599
+  },
+  {
+    "name": "Chhattisgarh",
+    "own": 64,
+    "reachable": 591
+  },
+  {
+    "name": "Meghalaya",
+    "own": 63,
+    "reachable": 590
+  },
+  {
+    "name": "Madhya Pradesh",
+    "own": 62,
+    "reachable": 589
+  },
+  {
+    "name": "Odisha",
+    "own": 55,
+    "reachable": 582
+  },
+  {
+    "name": "Himachal Pradesh",
+    "own": 51,
+    "reachable": 578
+  },
+  {
+    "name": "Assam",
+    "own": 49,
+    "reachable": 576
+  },
+  {
+    "name": "Maharashtra",
+    "own": 48,
+    "reachable": 575
+  },
+  {
+    "name": "Uttar Pradesh",
+    "own": 42,
+    "reachable": 569
+  },
+  {
+    "name": "Haryana",
+    "own": 39,
+    "reachable": 566
+  },
+  {
+    "name": "Arunachal Pradesh",
+    "own": 35,
+    "reachable": 562
+  },
+  {
+    "name": "Delhi",
+    "own": 34,
+    "reachable": 561
+  },
+  {
+    "name": "Tripura",
+    "own": 29,
+    "reachable": 556
+  },
+  {
+    "name": "Uttarakhand",
+    "own": 29,
+    "reachable": 556
+  },
+  {
+    "name": "West Bengal",
+    "own": 27,
+    "reachable": 554
+  },
+  {
+    "name": "Jammu & Kashmir",
+    "own": 26,
+    "reachable": 553
+  },
+  {
+    "name": "Karnataka",
+    "own": 22,
+    "reachable": 549
+  },
+  {
+    "name": "Andhra Pradesh",
+    "own": 20,
+    "reachable": 547
+  },
+  {
+    "name": "Jharkhand",
+    "own": 20,
+    "reachable": 547
+  },
+  {
+    "name": "Chandigarh",
+    "own": 20,
+    "reachable": 547
+  },
+  {
+    "name": "Manipur",
+    "own": 18,
+    "reachable": 545
+  },
+  {
+    "name": "Punjab",
+    "own": 18,
+    "reachable": 545
+  },
+  {
+    "name": "Andaman & Nicobar Islands",
+    "own": 18,
+    "reachable": 545
+  },
+  {
+    "name": "Nagaland",
+    "own": 17,
+    "reachable": 544
+  },
+  {
+    "name": "Telangana",
+    "own": 15,
+    "reachable": 542
+  },
+  {
+    "name": "Bihar",
+    "own": 12,
+    "reachable": 539
+  },
+  {
+    "name": "Mizoram",
+    "own": 11,
+    "reachable": 538
+  },
+  {
+    "name": "Sikkim",
+    "own": 9,
+    "reachable": 536
+  },
+  {
+    "name": "Lakshadweep",
+    "own": 2,
+    "reachable": 529
+  },
+  {
+    "name": "Dadra & Nagar Haveli and Daman & Diu",
+    "own": 1,
+    "reachable": 528
+  },
+  {
+    "name": "Ladakh",
+    "own": 0,
+    "reachable": 527
+  }
+]
